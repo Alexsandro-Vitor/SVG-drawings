@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Ship1.svg"
-   inkscape:export-filename="C:\Users\manifestogames\Documents\Vetor\Nave1.png"
+   inkscape:export-filename="C:\Users\manifestogames\Documents\SVG-drawings\Ships\Ship1.png"
    inkscape:export-xdpi="384"
    inkscape:export-ydpi="384">
   <defs
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="32.180632"
+     inkscape:cx="-8.4890109"
      inkscape:cy="30.90391"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -65,7 +65,7 @@
      id="layer1"
      transform="translate(0,-280.06665)">
     <path
-       style="fill:#f70000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 0,296.99998 v -10.58333 l 8.4666663,-6.35 8.4666667,6.35 v 10.58333 l -8.4666667,-6.35 z"
        id="path817"
        inkscape:connector-curvature="0"
